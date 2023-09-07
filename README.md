@@ -1,2 +1,2 @@
 # vijay
-Demo clone delta project
+Demo clone delta project.
